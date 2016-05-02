@@ -1,0 +1,25 @@
+c:\users\ngu\documents\visual studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\bin\Debug\PS3Lib.dll
+c:\users\ngu\documents\visual studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\obj\Debug\TunablesEditorCode.About.resources
+c:\users\ngu\documents\visual studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\obj\Debug\TunablesEditorCode.Main.resources
+c:\users\ngu\documents\visual studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\obj\Debug\TunablesEditorCode.NewTunable.resources
+c:\users\ngu\documents\visual studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\obj\Debug\TunablesEditorCode.Properties.Resources.resources
+c:\users\ngu\documents\visual studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\obj\Debug\TunablesEditorCode.csproj.GenerateResource.Cache
+c:\users\ngu\documents\visual studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\obj\Debug\TunablesEditorCode.EditTunables.resources
+C:\Users\NGU\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\obj\Debug\TunablesEditorCode.Updater.resources
+C:\Users\NGU\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\bin\Debug\GTA V Tunables Editor.exe.config
+C:\Users\NGU\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\bin\Debug\GTA V Tunables Editor.exe
+C:\Users\NGU\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\bin\Debug\GTA V Tunables Editor.pdb
+C:\Users\NGU\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\obj\Debug\GTA V Tunables Editor.exe
+C:\Users\NGU\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\obj\Debug\GTA V Tunables Editor.pdb
+C:\Users\NGU\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\obj\Debug\TunablesEditorCode.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\bin\Debug\GTA V Tunables Editor.exe.config
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\bin\Debug\GTA V Tunables Editor.exe
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\bin\Debug\GTA V Tunables Editor.pdb
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\obj\Debug\TunablesEditorCode.About.resources
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\obj\Debug\TunablesEditorCode.Main.resources
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\obj\Debug\TunablesEditorCode.Properties.Resources.resources
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\obj\Debug\TunablesEditorCode.csproj.GenerateResource.Cache
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\obj\Debug\GTA V Tunables Editor.exe
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\obj\Debug\GTA V Tunables Editor.pdb
