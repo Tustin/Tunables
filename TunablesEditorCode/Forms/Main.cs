@@ -169,7 +169,6 @@ namespace TunablesEditorCode
             if (dasSelectedTunable.type == "int")
             {
                 int memory = PS3.Extension.ReadInt32(Globals.CurrentAddress + ((uint)dasSelectedTunable.index * 4));
-                Clipboard.SetText((Globals.CurrentAddress + ((uint)dasSelectedTunable.index * 4)).ToString());
                 tunableValue.Text = memory.ToString();
             }
             else
