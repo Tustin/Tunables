@@ -104,9 +104,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="icon.ico" />
-    <Content Include="UpdateInfo.xml">
-      <SubType>Designer</SubType>
-    </Content>
     <None Include="Resources\Alert.png" />
     <None Include="Resources\Done16x.png" />
   </ItemGroup>

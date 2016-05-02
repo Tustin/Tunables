@@ -23,3 +23,14 @@ C:\Users\Josh\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesE
 C:\Users\Josh\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\obj\Debug\TunablesEditorCode.csproj.GenerateResource.Cache
 C:\Users\Josh\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\obj\Debug\GTA V Tunables Editor.exe
 C:\Users\Josh\Documents\Visual Studio 2013\Projects\TunablesEditorCode\TunablesEditorCode\obj\Debug\GTA V Tunables Editor.pdb
+C:\Users\Josh\Documents\GitHub\Tunables\TunablesEditorCode\bin\Debug\GTA V Tunables Editor.exe.config
+C:\Users\Josh\Documents\GitHub\Tunables\TunablesEditorCode\obj\Debug\GTA V Tunables Editor.exe
+C:\Users\Josh\Documents\GitHub\Tunables\TunablesEditorCode\obj\Debug\GTA V Tunables Editor.pdb
+C:\Users\Josh\Documents\GitHub\Tunables\TunablesEditorCode\bin\Debug\GTA V Tunables Editor.exe
+C:\Users\Josh\Documents\GitHub\Tunables\TunablesEditorCode\bin\Debug\GTA V Tunables Editor.pdb
+C:\Users\Josh\Documents\GitHub\Tunables\TunablesEditorCode\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Josh\Documents\GitHub\Tunables\TunablesEditorCode\obj\Debug\TunablesEditorCode.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Documents\GitHub\Tunables\TunablesEditorCode\obj\Debug\TunablesEditorCode.About.resources
+C:\Users\Josh\Documents\GitHub\Tunables\TunablesEditorCode\obj\Debug\TunablesEditorCode.Main.resources
+C:\Users\Josh\Documents\GitHub\Tunables\TunablesEditorCode\obj\Debug\TunablesEditorCode.Properties.Resources.resources
+C:\Users\Josh\Documents\GitHub\Tunables\TunablesEditorCode\obj\Debug\TunablesEditorCode.csproj.GenerateResource.Cache

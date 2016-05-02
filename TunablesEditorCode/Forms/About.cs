@@ -25,7 +25,7 @@ namespace TunablesEditorCode
 
         private void linkLabel2_LinkClicked_1(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start("soon");
+            Process.Start("https://github.com/Tustin/Tunables");
         }
     }
 }
